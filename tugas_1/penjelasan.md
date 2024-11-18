@@ -1,6 +1,6 @@
 Tugas 1 Membuat KRS Mahasiswa
 
-1.![Screenshot (25)](https://github.com/user-attachments/assets/9b1709c8-8e57-4c69-ac17-3e4c1f770cef) pada gambar tersebut
+1.![Screenshot (25)](https://github.com/user-attachments/assets/9b1709c8-8e57-4c69-ac17-3e4c1f770cef) 
 
 2.![Screenshot (26)](https://github.com/user-attachments/assets/aadaedda-f16a-4688-bcc6-8d8d5eb3d888)
 
